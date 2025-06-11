@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Kebijakan Privasi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>Kebijakan Privasi</h1>
+
+  <p>Kami menghargai privasi Anda. Kebijakan privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda saat menggunakan aplikasi atau layanan kami.</p>
+
+  <h2>1. Informasi yang Dikumpulkan</h2>
+  <p>Kami dapat mengumpulkan informasi seperti nama, alamat email, dan data penggunaan aplikasi untuk meningkatkan pengalaman Anda.</p>
+
+  <h2>2. Penggunaan Informasi</h2>
+  <p>Informasi digunakan untuk menyediakan layanan, meningkatkan kualitas aplikasi, dan berkomunikasi dengan pengguna.</p>
+
+  <h2>3. Perlindungan Data</h2>
+  <p>Kami mengambil langkah-langkah keamanan yang wajar untuk melindungi data Anda dari akses yang tidak sah.</p>
+
+  <h2>4. Perubahan Kebijakan</h2>
+  <p>Kebijakan ini dapat diperbarui dari waktu ke waktu. Perubahan akan diumumkan di halaman ini.</p>
+
+  <h2>5. Kontak</h2>
+  <p>Jika Anda memiliki pertanyaan tentang kebijakan privasi ini, silakan hubungi kami melalui email: <a href="mailto:kontak@example.com">kontak@example.com</a>.</p>
+
+</body>
+</html>
